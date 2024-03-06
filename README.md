@@ -3,8 +3,8 @@
 ## 💫 About Me:
 👨‍💻 Front End Developer & WordPress Freelance<br>
 🔖 Check my works on my [Portfolio](https://portfolio.arnaud-monteux.fr/)<br>
-💭 Currently working on a top secret application project, redefining the way we'll travel. <br>
-🔭 Currently learning JS Frameworks (React JS)
+💭 Currently working on a top secret application project, redefining the way we'll travel <br>
+🔭 Currently learning JS Frameworks (React JS) <br>
 👨‍🎓 "Titre professionnel Développeur Web et Web Mobile" - LaManu Amiens<br>
 🌏 Travel & Asia lover...
 
