@@ -1,7 +1,7 @@
 # Hi I'm Arnaud 👋<br>
 
 ## 💫 About Me:
-- 👨‍💻 Web Developer & WordPress Freelancer<br>
+- 👨‍💻 Web Developer & WordPress Freelance<br>
 - 🖥️ See my works on my [Portfolio](https://portfolio.arnaud-monteux.fr/)<br>
 - 🚀 Currently working on a top secret application project, redefining the way we'll travel... (Coming soon) <br>
 - 🔭 Currently learning JS Frameworks (React JS) <br>
