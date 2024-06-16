@@ -70,6 +70,10 @@
   <img src="https://skillicons.dev/icons?i=xd" height="35" alt="xd logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="35" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="30" alt="gulp logo"  />
 </div>
 <br><br>
 
