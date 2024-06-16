@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 - 👨‍💻 Web Developer & WordPress Freelance<br>
-- 🤝 Front-End Engineer employee in a Web Agency <br>
+- 🤝 Front-End Engineer employee at a Web Agency <br>
 - 🖥️ See my works on my [Portfolio](https://portfolio.arnaud-monteux.fr/)<br>
 - 🚀 Currently working on a top secret application project, redefining the way we'll travel... (Coming soon) <br>
 - 🔭 Currently learning JS Frameworks (React JS) <br>
