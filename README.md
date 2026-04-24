@@ -1,8 +1,8 @@
 # Hi I'm Arnaud 👋<br>
 
 ## 💫 About Me:
-- 👨‍💻 Web Developer (agency & Freelance)<br>
-- 🤝 Front-End Engineer employee at a Web Agency <br>
+- 👨‍💻 Web Developer — Agency & Freelance<br>
+- 🤝 Front-End Engineer at a Web Agency<br>
 - 🖥️ See my works on my [Portfolio](https://portfolio.arnaud-monteux.fr/)<br>
 
 💌 [Contact me](mailto:arnaudmonteux@gmail.com)
