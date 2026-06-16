@@ -3,7 +3,7 @@
 ## 💫 About Me:
 - 👨‍💻 Web Developer — Agency & Freelance<br>
 - 🤝 Front-End Engineer at a Web Agency<br>
-- 🖥️ See my works on my [Portfolio](https://portfolio.arnaud-monteux.fr/)<br>
+- 🖥️ See my works on my [Portfolio](https://www.arnaud-monteux.fr/)<br>
 
 💌 [Contact me](mailto:arnaudmonteux@gmail.com)
 <br><br>
